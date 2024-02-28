@@ -1,5 +1,3 @@
-package adidsa;
-
 public class ParanthesesGen {
 	public static void genpar(int a, int openp, int closep, String par)
 	{

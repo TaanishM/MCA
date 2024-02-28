@@ -1,5 +1,3 @@
-package adidsa;
-
 import java.util.Scanner;
 
 public class Diceroll {

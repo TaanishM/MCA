@@ -1,5 +1,3 @@
-package adidsa;
-
 public class LinkList {
     public static void main(String[] args) {
         LinkedList list = new LinkedList();

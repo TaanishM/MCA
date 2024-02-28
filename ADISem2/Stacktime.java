@@ -1,5 +1,3 @@
-package adidsa;
-
 public class Stacktime {
     public static void main(String[] args) {
         Stack list = new Stack();

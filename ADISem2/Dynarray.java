@@ -1,5 +1,3 @@
-package adidsa;
-
 import java.util.ArrayList;
 
 public class Dynarray {
